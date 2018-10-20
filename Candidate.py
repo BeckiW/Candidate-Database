@@ -1,5 +1,5 @@
 
-from Tkinter import *
+from tkinter import *
 from CandidateBackend import Database
 
 COLUMN_ID = 0
